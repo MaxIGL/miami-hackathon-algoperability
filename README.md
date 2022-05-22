@@ -1,9 +1,20 @@
 ![](./public/images/Logoalgo.png)
 
 # Activate x Wormhole Hackathon
-Please find more information in our White Paper in the project directory.
 
-# Video presentation of the AlgoPerability projet
+This repository contains all the code that was developped during the Activate x Wormhole Hackathon.
+
+Our project, Algoperability, allows users to manage digital assets that live on a different blockchain than the blockchain on which those users are. For example managing and owning an NFT on blockchain Ethereum while the user is on Solana.
+
+Our AlgoPerability infrastructure can be summarized into three main developed services:
+- Cross-chain digital assets ownership transfer
+- Cross-chain digital assets management
+- All chain commercial targeting system and cross-chain NFT minting
+
+To test our infrastructure, we took the use case of NFT collection that was deployed on Ropsten network for which the metadata was stored using Storj.
+The address of the contract can be found [here](https://ropsten.etherscan.io/address/0x4f366451d1b2bEF10dFA9d5Eca4330dc3A939256).
+
+# Video presentation of the AlgoPerability project
 https://drive.google.com/file/d/1Fq8NTzHNPOtH-X3DP3l64_wdOvTI6AiE/view?usp=sharing
 
 ## Run the App
